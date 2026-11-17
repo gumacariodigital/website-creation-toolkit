@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T18:53:12.114Z",
+  "updated_at": "2026-11-17T18:55:23.468Z",
   "messages": [
     {
       "role": "user",
@@ -19,6 +19,15 @@
     {
       "role": "assistant",
       "text": "Você pode conferir o site na prévia do projeto, se ela estiver disponível no aplicativo. Como a criação foi enviada para validação e publicação, talvez seja preciso aguardar o executor aplicar as alterações pelo GitHub antes de a prévia aparecer."
+    },
+    {
+      "role": "user",
+      "text": "onde fica a prévia do projeto? procure pra mim e me mande",
+      "attachments": []
+    },
+    {
+      "role": "assistant",
+      "text": "Não consigo localizar a prévia do projeto porque nenhum arquivo ou tela do aplicativo foi disponibilizado nesta conversa. A resposta anterior também não confirma que o site foi publicado ou que existe uma prévia ativa."
     }
   ]
 }
